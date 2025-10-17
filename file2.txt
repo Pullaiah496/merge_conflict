@@ -1,0 +1,2 @@
+Hi This Merge Conflict Repo,
+file2 ..
